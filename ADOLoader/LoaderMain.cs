@@ -85,32 +85,6 @@ namespace ADOLoader
                 new TweakSettingsGUILayout("TestMod_TestGUILayout2", 48),
 
             });
-            
-            MelonLogger.Msg(Core.Assets.AssetBundle.LoadAsset<GameObject>("MiddleCenter") == null);
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
-            MelonLogger.Msg("akjsdfhjsafjasdfadjdaksshjadkfasdafd");
         }
     }
 }
