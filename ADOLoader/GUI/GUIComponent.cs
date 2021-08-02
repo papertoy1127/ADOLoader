@@ -1,4 +1,7 @@
-﻿using System;
+﻿// TODO: 새로운 GUI 시스템 만들기
+
+/*
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -78,3 +81,4 @@ namespace ADOLoader.GUI {
         internal Text(Rect rect, Anchor anchor) : base(rect, anchor) { }
     }
 }
+*/
