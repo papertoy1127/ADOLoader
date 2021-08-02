@@ -378,6 +378,7 @@
         <Compile Include="Component\FormatInputField.cs" />
         <Compile Include="Component\GUILayout.cs" />
         <Compile Include="Core\Assets.cs" />
+        <Compile Include="Core\Attributes\TweakAttribute.cs" />
         <Compile Include="Core\Debug.cs" />
         <Compile Include="Core\TweakSettings\Dropdown.cs" />
         <Compile Include="Core\TweakSettings\LargerSetting.cs" />
@@ -385,7 +386,6 @@
         <Compile Include="Core\TweakSettings\MinMax.cs" />
         <Compile Include="Core\TweakSettings\Slider.cs" />
         <Compile Include="Core\TweakSettings\TweakSetting.cs" />
-        <Compile Include="Core\Tweaks\Tweak.cs" />
         <Compile Include="GUI\GUIComponent.cs" />
         <Compile Include="LoaderMain.cs" />
         <Compile Include="ModInfo.cs" />
@@ -395,9 +395,6 @@
         <Compile Include="Utils\Color.cs" />
         <Compile Include="Utils\Enumerator.cs" />
         <Compile Include="Utils\Reflection.cs" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Core\Attributes" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
